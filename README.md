@@ -20,7 +20,7 @@ By evaluating maintenance schedules and correlating them with ATM performance, w
 ![](architeture.png)
 ---
 ## Tool use 
-In this project, we will leverage the power of Microsoft SQL Server, Microsoft Power BI Desktop, and Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the **datakliq_education_hub** specifically, their Cohort 3 project dataset.
+In this project, I leverage on the power of Microsoft SQL Server, Microsoft Power BI Desktop, and Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the **datakliq_education_hub** specifically, their Cohort 3 project dataset.
 
 ### Dataset Description:
 The dataset comprises a collection of dimension tables, including Customer, ATM Maintenance, Calendar, ATM Location, Hour, and Transaction Type. Additionally, there is one fact table named "Transaction Table," which contains a multitude of transactions spanning five different states in Nigeria. These states are Lagos, Enugu, FCT (Federal Capital Territory), Rivers, and Kano.
@@ -41,4 +41,35 @@ I implemented the snowflake model, connecting all my facts and dimensions seamle
 Snowflakeschema          |Relationship      
 :---------------------| :----------------------:
 ![](model1.png)   | ![](model2.png)
+
+# Analysis and visualization
+1. A detailed 4-year analysis revealed 6.52 million ATM transactions between 2019 and 2022, with March 2022 setting a record high.
+2. Withdrawals were the dominant transaction type at 34.99%, followed by transfers (24.1%), balance inquiries (20.46%), and deposits (20.45%). 
+3. The student population emerged as the transaction leaders, with 818,669 transactions and a short 5.69-minute average waiting time.
+4. Geographically, Lagos led with 43.21% of transactions, followed by Rivers (20.88%), Kano (18.96%), Enugu (17.86%), and Abuja (8.25%). 
+5. Some ATMs proved highly efficient, with an average customer waiting time of 4.77 minutes, while others made customers wait for an extended 11.09 minutes.
+6.  In 2022, a maintenance analysis revealed the best-maintained ATMs, including Ahoda, Dala, Tarauni, Warawa, and Fagge with 5–6-star ratings, and the least 
+ maintained, such as Bonny, Gwale, Gokana, Ikeja, and sabo Bank ATMs, with 0–3-star ratings. 
+7. The analysis underscores the importance of enhancing less-maintained ATMs and prioritizing those situated near student environments. It advocates for adopting data- 
+ driven optimization strategies to improve customer experiences in the world of ATMs.
+
+Snowflakeschema          |Relationship      
+:---------------------| :----------------------:
+![](model1.png)       | ![](model2.png)
+
+# Conclusion 
+As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM labyrinth an efficient and reliable friend to all.
+
+# Recommendations 
+- The Road Ahead The journey to ATM excellence continues, with newfound insights and a roadmap to unlock its hidden potential. The future lies in the integration of cutting-edge technologies like biometrics, artificial intelligence, and contactless payments. By embracing digital transformation, the ATM experience will become faster, more secure, and seamlessly connected to the wider world of financial services.
+
+- Empowering Customers Empowering the customers should be at the heart of every ATM strategy. Implementing personalized experiences, offering tailored financial advice, and providing seamless integration between the digital and physical banking worlds will turn ATMs into trusted companions in customers' financial journeys. By making the ATM experience delightful and efficient, financial institutions will build stronger relationships with their customers and drive loyalty. 
+
+- Maximizing Security In an era of increasing cyber threats, security is paramount. Banks must invest in robust security measures to protect both the customers' transactions and their personal information. Enhanced encryption, biometric authentication, and continuous monitoring are essential components of a secure ATM network. By prioritizing security, banks can ensure the trust and confidence of their customers in the ATM ecosystem.
+
+
+
+
+
+
 
