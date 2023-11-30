@@ -68,6 +68,8 @@ As I wrap up my journey, the lesson is clear. ATMs are not just machines; they a
 - Maximizing Security In an era of increasing cyber threats, security is paramount. Banks must invest in robust security measures to protect both the customers' transactions and their personal information. Enhanced encryption, biometric authentication, and continuous monitoring are essential components of a secure ATM network. By prioritizing security, banks can ensure the trust and confidence of their customers in the ATM ecosystem.
 
 ## Additional resources 
+1. Project data set [here](https://novyproo-my.sharepoint.com/:f:/g/personal/folorunsoajaladataanalyst_novypro_com/Ei3gBzHSYU9NpKNGTYWX8oIBKPdHcijuJGQtZRJ3eXQbtg?e=Pwr3Vo)
+2. SQL Script and data Analysis Expression Function [here](https://novyproo-my.sharepoint.com/:w:/g/personal/folorunsoajaladataanalyst_novypro_com/EUaio-qAQ8pEvWtY99Kvag8BIQ3tK8mZsLPgFJQby3ivWQ?e=R49ChA)
 
 
 
