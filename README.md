@@ -55,7 +55,7 @@ Snowflakeschema          |Relationship
 
 Snowflakeschema          |Relationship      
 :---------------------| :----------------------:
-![](model1.png)       | ![](model2.png)
+![](visua1.png)       | ![](visual2.png)
 
 # Conclusion 
 As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM labyrinth an efficient and reliable friend to all.
