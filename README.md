@@ -38,9 +38,9 @@ Example1              |   Example2
 # Data Modelling 
 I implemented the snowflake model, connecting all my facts and dimensions seamlessly. I utilized the import storage mode to bring in my data into Power BI, where I established relationships. The majority of these relationships have a one-to-many cardinality, and a single filter direction was applied, as illustrated in the screenshot below.
 
-Snowflakeschema          |Relationship      
+ Snowflakeschema       |     Relationship    
 :---------------------| :----------------------:
-![](model1.png)   | ![](model2.png)
+![](model1.png)       | ![](model2.png)
 
 # Analysis and visualization
 1. A detailed 4-year analysis revealed 6.52 million ATM transactions between 2019 and 2022, with March 2022 setting a record high.
@@ -53,9 +53,9 @@ Snowflakeschema          |Relationship
 7. The analysis underscores the importance of enhancing less-maintained ATMs and prioritizing those situated near student environments. It advocates for adopting data- 
  driven optimization strategies to improve customer experiences in the world of ATMs.
 
-Snowflakeschema          |Relationship      
-:---------------------| :----------------------:
-![](visua1.png)       | ![](visual2.png)
+Overview Report        | Maintenance Report    
+:--------------------- | :----------------------:
+![](visual1.png)       | ![](visual2.png)
 
 # Conclusion 
 As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM labyrinth an efficient and reliable friend to all.
