@@ -58,7 +58,7 @@ Overview Report        | Maintenance Report
 ![](visual1.png)       | ![](visual2.png)
 
 # Conclusion 
-As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM labyrinth an efficient and reliable friend to all.
+As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM an efficient and reliable friend to all. _**Click here to view full reports**_ [Here](https://app.powerbi.com/view?r=eyJrIjoiNTkzMzUzNzgtNDc4OC00NDdjLWJjM2ItYzQzODdlYWU5N2FhIiwidCI6IjQzOGFiNWNlLTljODEtNDI0Ni05Yjk4LTI5ZmY3YWQ3ZDBhOSJ9)
 
 # Recommendations 
 - The Road Ahead The journey to ATM excellence continues, with newfound insights and a roadmap to unlock its hidden potential. The future lies in the integration of cutting-edge technologies like biometrics, artificial intelligence, and contactless payments. By embracing digital transformation, the ATM experience will become faster, more secure, and seamlessly connected to the wider world of financial services.
