@@ -26,7 +26,7 @@ In this project, I leverage on the power of Microsoft SQL Server, Microsoft Powe
 The dataset comprises a collection of dimension tables, including Customer, ATM Maintenance, Calendar, ATM Location, Hour, and Transaction Type. Additionally, there is one fact table named "Transaction Table," which contains a multitude of transactions spanning five different states in Nigeria. These states are Lagos, Enugu, FCT (Federal Capital Territory), Rivers, and Kano.
 
 ### Data Dictionary:
-To ensure clarity and understanding, we have access to a meticulously defined data dictionary. This resource provides comprehensive explanations for the table and column structures, aiding our data analysis process.
+To ensure clarity and understanding, I have access to a meticulously defined data dictionary. This resource provides comprehensive explanations for the table and column structures, aiding our data analysis process.
 
 ## Data transformation 
 Most of my data transformation processes were executed on Microsoft SQL Server. In these processes, I performed tasks such as appending data, generating new calendar tables, creating a bridge table to link the transaction table with the maintenance table, and employing the alter and update functions to modify specific tables, as depicted in the screenshot below.
