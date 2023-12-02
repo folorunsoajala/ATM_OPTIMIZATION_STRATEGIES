@@ -19,8 +19,12 @@ By evaluating maintenance schedules and correlating them with ATM performance, w
 ---
 ![](architeture.png)
 ---
-## Tool use 
-In this project, I leverage on the power of Microsoft SQL Server, Microsoft Power BI Desktop, and Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the **datakliq_education_hub** specifically, their Cohort 3 project dataset.
+## Tool used 
+In this project, I leverage on the power of 
+1. Microsoft SQL Server
+2. Microsoft Power BI Desktop 
+3. Microsoft Fabric to efficiently manage and analyze data.
+The primary data source for this project is the **datakliq_education_hub** specifically, their Cohort 3 project dataset.
 
 ### Dataset Description:
 The dataset comprises a collection of dimension tables, including Customer, ATM Maintenance, Calendar, ATM Location, Hour, and Transaction Type. Additionally, there is one fact table named "Transaction Table," which contains a multitude of transactions spanning five different states in Nigeria. These states are Lagos, Enugu, FCT (Federal Capital Territory), Rivers, and Kano.
