@@ -19,8 +19,7 @@ By evaluating maintenance schedules and correlating them with ATM performance, w
 ---
 ![](architeture.png)
 ---
-## Tool used 
-In this project, I leverage on the power of 
+## Tools used 
 1. Microsoft SQL Server
 2. Microsoft Power BI Desktop 
 3. Microsoft Fabric to efficiently manage and analyze data.
